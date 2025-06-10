@@ -55,4 +55,3 @@ public class SequentialQuickSort {
         array[j] = temp;  // Asigna el valor almacenado en temp al segundo elemento.
     }
 }
-
