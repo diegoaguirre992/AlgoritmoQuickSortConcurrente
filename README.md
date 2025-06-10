@@ -1,4 +1,4 @@
-Optimización de QuickSort mediante concurrencia en Java
+COMPARACIÓN DE QUICKSORT SECUENCIAL Y CONCURRENTE EN JAVA
 
 Descripción:
 Este proyecto implementa QuickSort en Java en sus versiones secuencial y concurrente, aprovechando la concurrencia con el framework Fork/Join para mejorar el rendimiento en grandes volúmenes de datos.
